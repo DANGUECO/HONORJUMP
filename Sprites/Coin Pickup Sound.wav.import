@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Coin Pickup Sound.wav-b6f7f7ba3769edf459a89127d6b6064a.sample"
+
+[deps]
+
+source_file="res://Sprites/Coin Pickup Sound.wav"
+dest_files=[ "res://.import/Coin Pickup Sound.wav-b6f7f7ba3769edf459a89127d6b6064a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

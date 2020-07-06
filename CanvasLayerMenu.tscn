@@ -1,0 +1,19 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Sprites/menu/png/button_yellow/button_play.png" type="Texture" id=1]
+
+[node name="CanvasLayerMenu" type="CanvasLayer"]
+
+[node name="Menu" type="Button" parent="."]
+margin_left = 424.0
+margin_top = 192.0
+margin_right = 616.0
+margin_bottom = 384.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="button_play" type="Sprite" parent="Menu"]
+position = Vector2( 96, 96 )
+scale = Vector2( 0.757813, 0.75 )
+texture = ExtResource( 1 )

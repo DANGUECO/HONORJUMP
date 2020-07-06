@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Sword Whoosh Sound Effect First Variation.wav-4318e9a28abd3835b8269f81427d64f3.sample"
+
+[deps]
+
+source_file="res://Sprites/Sword Whoosh Sound Effect First Variation.wav"
+dest_files=[ "res://.import/Sword Whoosh Sound Effect First Variation.wav-4318e9a28abd3835b8269f81427d64f3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
