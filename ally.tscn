@@ -30,6 +30,7 @@ script = ExtResource( 11 )
 position = Vector2( -0.132434, 1.90735e-06 )
 scale = Vector2( 0.267736, 0.253906 )
 frames = SubResource( 1 )
+#do the walk animation
 animation = "walk"
 frame = 8
 
